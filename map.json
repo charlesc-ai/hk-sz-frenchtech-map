@@ -223,7 +223,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vQg-BhWxxEq8QnNr5QprSf0Bbtd9nNNhy8-n18OYQ4-QdtBWuNjJXpe_z4jQnbgEO2tpfebqSfB03bW\/embed?start=false&loop=false&delayms=3000"
+                 "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vQg-BhWxxEq8QnNr5QprSf0Bbtd9nNNhy8-n18OYQ4-QdtBWuNjJXpe_z4jQnbgEO2tpfebqSfB03bW\/embed?start=true&loop=true&delayms=5000"
                 }],
          "type":"tilelayer",
          "visible":true,

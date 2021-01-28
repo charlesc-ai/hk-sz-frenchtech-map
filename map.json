@@ -37,7 +37,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"forum"
+                 "value":"ftszhkforum"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -60,7 +60,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"canap1"
+                 "value":"ftszhkcanap1"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -83,7 +83,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"forum"
+                 "value":"ftszhkforum"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -111,7 +111,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"canap2"
+                 "value":"ftszhkcanap2"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
